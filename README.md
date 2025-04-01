@@ -1,29 +1,31 @@
-# The Figures and Tables for the rebuttal of CoTo
+# ICML 2025 Rebuttal of CoTo (Supplement Figures and Tables)
 
 ####  Figure r1
-![figure](./figures/Figure-r1.png)
+![figure](./Figures/Figure-r1.png)
 
 ####  Figure r2
-![figure](./figures/Figure-r2.png)
+![figure](./Figures/Figure-r2.png)
 
 ####  Figure r3
-![figure](./figures/Figure-r3.png)
+![figure](./Figures/Figure-r3.png)
 
 ####  Figure r4
-![figure](./figures/Figure-r4.png)
+![figure](./Figures/Figure-r4.png)
 
 ####  Figure r5
-![figure](./figures/Figure-r5.png)
+![figure](./Figures/Figure-r5.png)
 
 ####  Figure r6
-![figure](./figures/Figure-r6.png)
+![figure](./Figures/Figure-r6.png)
 
 ####  Figure r7
-![figure](./figures/Figure-r7.png)
+![figure](./Figures/Figure-r7.png)
 
 ####  Figure r8
-![figure](./figures/Figure-r8.png)
+![figure](./Figures/Figure-r8.png)
 
 ####  Table r1:
+![figure](./Tables/Table-r1.png)
 
 ####  Table r2:
+![figure](./Tables/Table-r2.png)
