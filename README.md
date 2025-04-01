@@ -24,8 +24,8 @@
 ##  Figure r8
 ![figure](./results/Figure-r8.png)
 
-##  Table r1:
+##  Table r1
 ![figure](./results/Table-r1.png)
 
-##  Table r2:
+##  Table r2
 ![figure](./results/Table-r2.png)
