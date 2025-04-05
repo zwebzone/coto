@@ -29,3 +29,6 @@
 
 ##  Table r2
 ![figure](./results/Table-r2.png)
+
+##  Table r3
+![figure](./results/Table-r3.png)
