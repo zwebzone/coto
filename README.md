@@ -19,7 +19,7 @@ This repository provides the official implementation of **CoTo**, a progressive 
 
 CoTo stochastically deactivates LoRA-style adapters in training and linearly increases their activation probability over time.
 
-![Illustration of the CoTo progressive activation schedule for LoRA adapters.](./coto.png)
+![Illustration of the CoTo progressive activation schedule for LoRA adapters.](./CoTo.png)
 
 | Feature                          | Supported ✅ |
 | -------------------------------- | ----------- |
